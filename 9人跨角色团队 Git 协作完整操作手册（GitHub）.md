@@ -234,5 +234,5 @@ git branch -d feature/xxx
 git push https://github.com/fireflygoup/mylangchain.git --delete feature/xxx
 ```
 
-如果你需要，我再输出一份**纯无格式文本版本**，你直接复制发送团队微信群 / 钉钉。
+
 
