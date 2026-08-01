@@ -23,3 +23,4 @@ git config user.email "chen_xuefeng@hotmail.com"
 
 - 如果有冲突 那么 git pull https://github.com/fireflygoup/mylangchain.git main --allow-unrelated-histories
 - 如果有冲突  用这个不用条vim的。git pull https://github.com/fireflygoup/mylangchain.git main --allow-unrelated-histories -m "合并远程main分支代码"
+testing
